@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"My",
+				"MyAppDeclaration"
+			],
+			[
+				"pending",
+				"pendingDamage"
+			],
+			[
+				"hits",
+				"hitsRemaining"
+			],
+			[
+				"die",
+				"dieHit"
+			],
+			[
+				"curr",
+				"currShipActivation"
+			],
+			[
+				"run",
+				"runPointDefense"
+			],
+			[
+				"damag",
+				"damagedShips"
+			],
+			[
+				"rando",
+				"randomization"
+			],
+			[
+				"re",
+				"returnValue"
+			],
+			[
+				"targ",
+				"targetShipId"
+			],
+			[
+				"firing",
+				"firingPlayerConfig"
+			],
+			[
+				"pl",
+				"playerTechArray"
+			],
+			[
+				"defenderRep",
+				"defenderRepTiles"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"attackerRe",
+				"attackerRepRegion"
+			],
+			[
+				"rep",
+				"repTileCount"
+			],
+			[
+				"cur",
+				"currShipActivation"
+			],
+			[
+				"defe",
+				"defendingPlayerConfig"
+			],
+			[
+				"arr",
+				"arrShips"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"clone",
+				"clonedShip"
+			],
+			[
+				"clon",
+				"clonedShip"
+			],
+			[
+				"dice",
+				"diceRollsView"
+			],
+			[
+				"a",
+				"align"
+			],
+			[
+				"Fire",
+				"Fire"
+			],
+			[
+				"def",
+				"defendingPlayerConfig"
+			],
+			[
+				"m",
+				"mGeneric"
+			],
+			[
+				"end",
+				"endCombat"
+			],
+			[
+				"currShip",
+				"currShipActivationIndex"
+			],
+			[
+				"e",
+				"endCombat"
+			],
+			[
+				"runCom",
+				"runCombatRounds"
+			],
+			[
+				"arrA",
+				"arrAttICShips"
+			],
+			[
+				"ship",
+				"shipConfigurations"
+			],
+			[
+				"com",
+				"combatShips"
+			],
+			[
+				"comba",
+				"combatantType"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"sh",
+				"shipConfigurations"
+			],
+			[
+				"c",
+				"cShipConfigurations"
+			],
+			[
+				"vTest",
+				"vTestSetup"
+			],
+			[
+				"furry",
+				"furryOrcHorde"
+			],
+			[
+				"DDD",
+				"DDD"
+			],
+			[
+				"rende",
+				"renderedTemplate"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Ma",
+				"MarionetteTest"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tshamma/Documents/GitHub/AngularDice/index.html",
+		"/Users/tshamma/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tshamma/Documents/GolfApp/app/app.js",
+		"/Users/tshamma/Documents/GolfApp/app/package.json",
+		"/Users/tshamma/Documents/GolfApp/app/routes/index.js",
+		"/Users/tshamma/Documents/GolfApp/app/routes/user.js",
+		"/Users/tshamma/Documents/GolfApp/app/routes/round.js",
+		"/Users/tshamma/Desktop/TAS-CON 2014/TAS-CON Todo Notes.txt",
+		"/Users/tshamma/Documents/GitHub/CommitTest/index.html",
+		"/Users/tshamma/Documents/GolfApp/app/public/index.html",
+		"/Users/tshamma/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tshamma/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/tshamma/Desktop/Weekly CVS UI Call Notes",
+		"/Users/tshamma/Desktop/Weekly Ad Prototype Review",
+		"/Users/tshamma/Desktop/tascontext.txt",
+		"/Users/tshamma/Desktop/backbone-sample.html",
+		"/Users/tshamma/Desktop/test.html",
+		"/Users/tshamma/Desktop/STUFF TO DO",
+		"/Users/tshamma/Desktop/WFRPCombatDiceReference",
+		"/Users/tshamma/Desktop/SampleAdBlockJSON.txt",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/ECR.sublime-project",
+		"/Users/tshamma/Desktop/Code Reviews",
+		"/Users/tshamma/Desktop/Interview Questions",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/index.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.10.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.9.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.6.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.8.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.7.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.5.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.4.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/css/main.css",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M1.1.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.3.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.2.html",
+		"/Users/tshamma/Downloads/MinuteClinicBuild1/M2.1.html",
+		"/Users/tshamma/Documents/MCMobile/index.html",
+		"/Users/tshamma/Documents/MCMobile/MCMobile.sublime-project",
+		"/Users/tshamma/Desktop/CVS WeeklyAd BEG",
+		"/Users/tshamma/Desktop/index.html",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/js/helper.js",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/js/setupviews.js",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/index.html",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/js/combat.js",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/js/combatviews.js",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/styles/styles.css",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/styles/styles.scss",
+		"/Users/tshamma/Documents/EclipseCombatRunner/web/dev-index.html",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/web/js/libs/marionette-reqs.min.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/dev/js/models.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/dev/js/dice.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/combat.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/combatviews.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/web/styles/styles-min.css",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/dev/styles/styles.css",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/web/index-prod.html",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/main.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/setupviews.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/playerviews.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/mainviews.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/helper.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/spritetest.html",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/saveme.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/dice.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/layouts.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/routers.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/models.js",
+		"/Users/tshamma/Desktop/DungeonApp/index.html",
+		"/Users/tshamma/Desktop/MOBVIEWS/index.html",
+		"/Users/tshamma/Desktop/MOBVIEWS/list.html",
+		"/Users/tshamma/Desktop/index.html.zip",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/randomorg.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/libs/backbone.marionette.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/design/EclipseCombatRunner-Combat.bmml",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/design/Eclipse Combat Runner",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/collections.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/regions.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/libs/backbone.babysitter.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/sampleplayerconfig.json",
+		"/Users/tshamma/Desktop/marionette-test.html",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/untitled",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/libs/backbone.wreqr.js",
+		"/Users/tshamma/Desktop/DungeonApp/services.html",
+		"/Users/tshamma/Desktop/DungeonApp/orcs/orcs.json",
+		"/Users/tshamma/Desktop/DungeonApp/weapons/weapons.json",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/index.html",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/js/views.js",
+		"/Users/tshamma/Desktop/EclipseCombatRunner/styles/styles.css",
+		"/Users/tshamma/Desktop/Eclipse Ships",
+		"/Users/tshamma/Desktop/DungeonApp/services.js",
+		"/Users/tshamma/Desktop/event-example.html",
+		"/Users/tshamma/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/tshamma/Documents/GitHub/BB-MovieReviews/index.html",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/models.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/collections.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/page1views.js",
+		"/Users/tshamma/Desktop/pincushion-faculty.html",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/router.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/main.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/AppDefinition.txt",
+		"/Users/tshamma/Desktop/Cube Pusher",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/index.html",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/views.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/page3views.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/page2views.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/lib/json2.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/lib/backbone.babysitter-0.0.6.js",
+		"/Users/tshamma/Documents/GitHub/Marionette-Require-Test/www/js/app/main2.js",
+		"/Users/tshamma/Documents/Projects/Marionette Test/scripts/main.js",
+		"/Users/tshamma/Documents/Projects/Marionette Test/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content:",
+			"content",
+			"click",
+			"parent",
+			"cvCombatDice",
+			"cvDiceRolls",
+			"vCombatDieRoll",
+			"combatdiehighlit",
+			"attackerRepTiles",
+			"completeAct",
+			"attackerRepTiles",
+			"combatshiphighlit",
+			"firingshiphighlit",
+			"runShipActivation",
+			"checkForEngagement",
+			"applyPendingDamage",
+			"antimatterHitCount",
+			"applyPendingDamage",
+			"checkForEngagement",
+			"error",
+			"targetedPlayerHasPendingDamage",
+			"completeActivation",
+			"ECR.Combat.curr",
+			"dieselected",
+			"pointdefenseshiphighlit",
+			"cvPointDefenseDiceRoll",
+			"showMissileFireHits",
+			"sHits",
+			"removeMissileFireHit",
+			"cvPointDefenseDice",
+			"combatshipselected",
+			"PlayerTech",
+			"runpointdefense",
+			"imgShipSelect",
+			"cid",
+			"selected",
+			"vMessage",
+			"vPointDefenseAssignDamage",
+			"dRoll",
+			"vPointDefenseDieRoll",
+			"usedDice",
+			"pendingDamage",
+			"currentSelectedDie",
+			"combatstage",
+			"shipselection",
+			"44",
+			"btnRetreat",
+			"usedDice",
+			"Config.combatShips",
+			"ECR.combatConfig",
+			"combatDiceRoll",
+			"vDieRoll",
+			"ECR.Combat.usedDice",
+			"dice",
+			"distortionShieldBonus",
+			"getDistortionShield",
+			"combatshiphighlitmiss",
+			"ECR.Combat.currentSelectedDie",
+			"antimatterhit",
+			"potentialtarget",
+			"dCombatDieMask",
+			"diemask",
+			"potentialtarget",
+			"pendingdamage",
+			"alert",
+			"combatdieselected",
+			"combatshiphighlit",
+			"firingshipselected",
+			"firing",
+			"combatshipselected",
+			"potentialtarget",
+			"health",
+			"techs",
+			"combatShips",
+			"navcolor",
+			"removeFuzzy",
+			"combatshipselected",
+			"vCombatControlShipActivation",
+			"vResetCombat",
+			"dCombatControlsCont",
+			"btnBeginCombat",
+			"ECR.combatConfig.combatOrder",
+			"ECR.Layouts.combatLayout.combatStageRegion.show",
+			"imgShip",
+			"diceicon",
+			"mCombatDieRoll",
+			"vPlayerControls",
+			"attackingPlayerConfig",
+			"okToAddShip",
+			"showRepTileSummary",
+			"Combat Over",
+			"src",
+			"reset",
+			"bottomControlsRegion",
+			"cmpvCombatantSelect",
+			"1000",
+			"initiative",
+			"dControls",
+			"show",
+			"repTile",
+			"setup combat",
+			"currCombatOrderIndex",
+			"combatStage",
+			"combatOrder",
+			"typeCode",
+			"indexOf",
+			"currentCombatRound",
+			"tmplCombatTrackerBeginCombat",
+			"navitemselected",
+			"lPlayer",
+			"tmplPlayerConfig",
+			"cvAttackerOptions",
+			"dNavCombat",
+			".navitem",
+			"id",
+			"playerConfig",
+			"cvShipConfigs",
+			"toggleConfigControls",
+			"display",
+			"times",
+			"EEE",
+			"()\n",
+			"IonCannon",
+			"TerIC",
+			"getTarget",
+			"#dNav div ",
+			"data",
+			"100px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"IC",
+			"XXXXXXXX",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"spritetest.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/tshamma/Documents/EclipseCombatRunner/web/ECR.sublime-project"
+			]
+		],
+		"width": 586.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true
+}
